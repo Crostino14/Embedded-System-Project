@@ -1,6 +1,5 @@
-# ⚡🚗🌳 Electronic Gate Firmware
-
 <div align="center">
+  <h1>⚡🚗🌳 Electronic Gate Firmware</h1>
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
