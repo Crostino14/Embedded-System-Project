@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 Overview
+## 📚 Project Overview
 
 This project presents the design and implementation of a firmware for a **dual-leaf electronic gate** (cancello a battenti), developed as part of the *Sistemi Embedded* course at the University of Salerno (A.Y. 2023/2024). The system controls gate movement, obstacle detection, LED signaling, and automatic timing through a model-based approach using MATLAB Stateflow. C code is then automatically generated via Embedded Coder and deployed on the **STM32 NUCLEO-G474RE** development board.
 
